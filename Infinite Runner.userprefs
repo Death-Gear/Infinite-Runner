@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Buttons.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TileControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Background1_move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Groundmove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GemsControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Background2Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Wotah.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StoneControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stone1Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bird.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Snowball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Buttons.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

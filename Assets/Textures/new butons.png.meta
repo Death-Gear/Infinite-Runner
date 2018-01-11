@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 581b9811aac49e24f99eed73f91fc42d
+timeCreated: 1491563432
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: new butons_0
+    21300002: new butons_1
+    21300004: new butons_2
+    21300006: new butons_3
+    21300008: new butons_4
+    21300010: new butons_5
+    21300012: new butons_6
+    21300014: new butons_7
+    21300016: new butons_8
+    21300018: new butons_9
+    21300020: new butons_10
+    21300022: new butons_11
+    21300024: new butons_12
+    21300026: new butons_13
+    21300028: new butons_14
+    21300030: new butons_15
+    21300032: new butons_16
+    21300034: new butons_17
+    21300036: new butons_18
+    21300038: new butons_19
+    21300040: new butons_20
+    21300042: new butons_21
+    21300044: new butons_22
+    21300046: new butons_23
+    21300048: new butons_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new butons_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4015
+        width: 821
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_1
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 4015
+        width: 822
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_2
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 4014
+        width: 818
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_3
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4015
+        width: 818
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_4
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 4015
+        width: 822
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3085
+        width: 820
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_6
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3085
+        width: 822
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_7
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 3085
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_8
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3085
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_9
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 3085
+        width: 822
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2167
+        width: 819
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_11
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2167
+        width: 818
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_12
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2167
+        width: 818
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_13
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2167
+        width: 818
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_14
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 2167
+        width: 818
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1237
+        width: 819
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_16
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1237
+        width: 822
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_17
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1237
+        width: 818
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_18
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1237
+        width: 818
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_19
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 1237
+        width: 822
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 326
+        width: 819
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_21
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 322
+        width: 822
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_22
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 321
+        width: 818
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_23
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 322
+        width: 818
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: new butons_24
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 322
+        width: 822
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
