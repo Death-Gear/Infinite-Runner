@@ -1,2 +1,2 @@
 # Infinite-Runner
-#@d side scrollling adventure game 
+2d side scrollling adventure game 
